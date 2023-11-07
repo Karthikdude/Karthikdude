@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Karthik S Sathyan, a tech enthusiast from India, currently studying BCA at Srinivas University. I'm passionate about ethical hacking, bug bounty, penetration testing, and programming. I actively contribute to cybersecurity and aim to use tech for a positive impact. 🚀🔒👨‍💻<br>I've learned Linux, networking and hacking
-
+I'm Karthik S Sathyan, a tech enthusiast from India, currently studying BCA at Srinivas University. I'm passionate about ethical hacking, bug bounty, penetration testing, and programming. I actively contribute to cybersecurity and aim to use tech for a positive impact. 🚀🔒👨‍💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100027491124010&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig.dudee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik-s-sathyan-213350241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/igdudee) 
