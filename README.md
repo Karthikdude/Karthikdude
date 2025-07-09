@@ -1,23 +1,67 @@
-# 💫 About Me:
-I'm Karthik S Sathyan, a tech enthusiast from India, currently studying BCA at Srinivas University. I'm passionate about ethical hacking, bug bounty, penetration testing, and programming. I actively contribute to cybersecurity and aim to use tech for a positive impact. 🚀🔒👨‍💻
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <h1 align="center">Hi there, I'm Karthik S Sathyan 👋</h1>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100027491124010&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig.dudee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik-s-sathyan-213350241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/igdudee) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Karthikdude&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karthikdude&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikdude&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Karthikdude&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Karthikdude&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <em>A passionate tech enthusiast and ethical hacker from India 🇮🇳, currently pursuing a BCA at Srinivas University.
+  <br>
+  I'm on a mission to leverage technology for a positive impact and contribute to the world of cybersecurity. 🚀🔒👨‍💻</em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Karthikdude&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🔭 I’m currently working on enhancing my skills in web application security.
+- 🌱 I’m currently learning **Advanced Penetration Testing** and **Reverse Engineering**.
+- 👯 I’m looking to collaborate on **Open Source Cybersecurity projects**.
+- 💬 Ask me about **Cybersecurity, Ethical Hacking, or anything tech-related**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/karthik-s-sathyan)**
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,js,linux,git,github,kali,postman,vscode,bash,bootstrap,css,figma,md,mysql,py,sqlite,wordpress" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/karthik-s-sathyan-213350241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/igdudee" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://instagram.com/ig.dudee" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/profile.php?id=100027491124010" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthikdude&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Karthik's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Karthikdude&theme=radical&hide_border=false" alt="Karthik's Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikdude&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Karthik's Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthikdude&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Karthik's GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Karthikdude&icon=2&color=12" alt="Visitor Count" />
+</p>
