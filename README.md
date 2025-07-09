@@ -53,7 +53,7 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 ### 🚀 Projects
 
 #### 1. Xaphan - XSS Vulnerability Scanner
-🔹 **Tech Stack**: Python, Go, Wayback Machine  
+🔹 **Tech Stack**: Python/Go, Wayback Machine  
 🔹 **Description**: Developed a tool for identifying and exploiting XSS vulnerabilities using historical URLs from the Wayback Machine. Features automated payload injection, response analysis, and detailed logging.  
 🔹 **GitHub**: [Xaphan Repository](https://github.com/Karthikdude/Xaphan)
 
@@ -134,5 +134,9 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Karthikdude&icon=2&color=12" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Karthikdude&style=flat-square&color=blue" alt="Profile Views"/>
+  <br/>
+  <a href="https://github.com/Karthikdude?tab=followers">
+    <img src="https://img.shields.io/github/followers/Karthikdude?label=Follow%20%40Karthikdude&style=social" alt="GitHub Followers"/>
+  </a>
 </p>
