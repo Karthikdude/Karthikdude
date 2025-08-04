@@ -1,38 +1,26 @@
-# Welcome
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Karthik+S+Sathyan+%F0%9F%91%8B;Ethical+Hacker+%26+Cybersecurity+Specialist+%F0%9F%94%92;Bug+Bounty+Hunter+%F0%9F%90%9B;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
-  <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=Karthik%20S%20Sathyan&height=150&fontSize=60&desc=Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist%20%7C%20Bug%20Bounty%20Hunter&descAlignY=75&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🛡️+Cybersecurity+Professional;🔍+Vulnerability+Hunter;💻+Security+Tool+Developer;🚀+Tech+Innovation+Enthusiast" alt="Dynamic Role Display" />
 </div>
 
-<p align="center">
-  <em>A passionate tech enthusiast and ethical hacker from India 🇮🇳, currently pursuing a BCA at Srinivas University.
-  <br>
-  I'm on a mission to leverage technology for a positive impact and contribute to the world of cybersecurity. 🚀🔒👨‍💻</em>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/🇮🇳-India-FF9933?style=for-the-badge&labelColor=138808&color=FF9933" alt="India">
+  <img src="https://img.shields.io/badge/🎓-BCA_Student-4A90E2?style=for-the-badge" alt="Education">
+  <img src="https://img.shields.io/badge/🏛️-Srinivas_University-8A2BE2?style=for-the-badge" alt="University">
+</div>
 
-# Table of Contents
-1. [Welcome](#welcome)
-2. [About Me](#about-me)
-3. [Tech Stack](#tech-stack)
-4. [Projects](#projects)
-5. [Experience](#experience)
-6. [Certifications](#certifications)
-7. [Connect with Me](#connect-with-me)
-8. [GitHub Stats](#github-stats)
-9. [GitHub Trophies](#github-trophies)
-10. [Thanks for Visiting](#thanks-for-visiting)
+<br>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=400&size=20&duration=4000&pause=2000&color=F39C12&center=true&vCenter=true&width=600&height=60&lines=💡+Leveraging+technology+for+positive+impact;🔐+Securing+digital+landscapes+one+bug+at+a+time;🌟+Always+learning%2C+always+growing" alt="Mission Statement" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=50&lines=About+Me+%F0%9F%9A%80;Ethical+Hacker+%26+Cybersecurity+Expert;Always+Learning+%26+Growing" alt="About Me Typing SVG" />
@@ -62,28 +50,44 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ### 🛠️ My Tech Stack
 
-#### 🛡️ Hacking Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B6B?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF6B6B?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6B6B?style=flat-square&logo=metasploit&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-FF6B6B?style=flat-square&logo=sqlmap&logoColor=white)
+#### 🛡️ Cybersecurity Arsenal
+<div align="center">
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/🔍_Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=FF4757)
+![Nmap](https://img.shields.io/badge/🌐_Nmap-FF6B6B?style=for-the-badge&logo=nmap&logoColor=white&labelColor=FF3838)
+![Metasploit](https://img.shields.io/badge/💥_Metasploit-FF6B6B?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=FF2F2F)
+![SQLMap](https://img.shields.io/badge/🗃️_SQLMap-FF6B6B?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=FF1F1F)
+![Wireshark](https://img.shields.io/badge/📊_Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/🐉_Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-#### 🛠️ Technologies & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
+
+#### 💻 Programming Mastery
+<div align="center">
+
+![Python](https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
+![Java](https://img.shields.io/badge/☕_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)
+![C](https://img.shields.io/badge/⚡_C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=A8B9CC)
+![C++](https://img.shields.io/badge/🚀_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=659AD2)
+![JavaScript](https://img.shields.io/badge/🌟_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F0DB4F)
+![PHP](https://img.shields.io/badge/🌐_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=8993BE)
+![HTML5](https://img.shields.io/badge/🏗️_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=F06529)
+![CSS3](https://img.shields.io/badge/🎨_CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965F1)
+
+</div>
+
+#### 🛠️ Tech Ecosystem
+<div align="center">
+
+![Flask](https://img.shields.io/badge/🔥_Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/🗄️_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F)
+![Linux](https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FFCC33)
+![Git](https://img.shields.io/badge/📚_Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=DE4C36)
+![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292E)
+![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/💡_VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -91,65 +95,195 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=My+Projects+%F0%9F%9A%80;Security+Tools+%26+Applications;Building+the+Future" alt="Projects Typing SVG" />
 </div>
 
-<img align="left" alt="Projects" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 # Projects
 
-### 🚀 Projects
+<div align="center">
 
-#### 1. Xaphan - XSS Vulnerability Scanner
-🔹 **Tech Stack**: Python/Go, Wayback Machine  
-🔹 **Description**: Developed a tool for identifying and exploiting XSS vulnerabilities using historical URLs from the Wayback Machine. Features automated payload injection, response analysis, and detailed logging.  
-🔹 **GitHub**: [Xaphan Repository](https://github.com/Karthikdude/Xaphan)
+### 🛡️ Security Arsenal - My Cybersecurity Projects
 
-#### 2. MetaX - Metadata Extraction Tool
-🔹 **Tech Stack**: Python, Flask, EXIF Data  
-🔹 **Description**: A web application that extracts metadata from image files, including EXIF data and GPS coordinates, demonstrating expertise in digital forensics and secure file handling.  
-🔹 **Live Demo**: [MetaX Website](https://metaex.vercel.app/)
+</div>
 
-#### 3. WebX - XSS Payload Manager
-🔹 **Tech Stack**: Python, Flask, Firebase Firestore  
-🔹 **Description**: A secure web application for deploying and monitoring blind XSS payloads with real-time analytics, detailed hit logging, and JWT-based authentication.  
-🔹 **Live Demo**: [WebX Website](https://webx-test.vercel.app/)
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Xaphan - XSS Vulnerability Scanner
+[![Xaphan](https://img.shields.io/badge/🎯_XSS_Scanner-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Karthikdude/Xaphan)
+
+**🛠️ Tech Stack:** `Python` `Go` `Wayback Machine`
+
+**📝 Description:** Advanced XSS vulnerability detection tool leveraging historical URLs from Wayback Machine. Features automated payload injection, intelligent response analysis, and comprehensive logging system.
+
+**⚡ Key Features:**
+- 🎯 Automated XSS payload injection
+- 📊 Response analysis engine
+- 📋 Detailed vulnerability logging
+- 🕰️ Historical URL crawling
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikdude/Xaphan)
+[![Stars](https://img.shields.io/github/stars/Karthikdude/Xaphan?style=for-the-badge&logo=github)](https://github.com/Karthikdude/Xaphan)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 MetaX - Metadata Extraction Tool
+[![MetaX](https://img.shields.io/badge/🕵️_OSINT_Tool-4CAF50?style=for-the-badge&logo=searchengin&logoColor=white)](https://metaex.vercel.app/)
+
+**🛠️ Tech Stack:** `Python` `Flask` `EXIF Data` `PIL`
+
+**📝 Description:** Professional-grade metadata extraction web application for digital forensics. Extracts EXIF data, GPS coordinates, and hidden metadata from image files.
+
+**⚡ Key Features:**
+- 📷 EXIF data extraction
+- 🌍 GPS coordinate mapping
+- 🛡️ Secure file handling
+- 🔍 Hidden metadata detection
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://metaex.vercel.app/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A//metaex.vercel.app/)](https://metaex.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ WebX - XSS Payload Manager
+[![WebX](https://img.shields.io/badge/🎪_Payload_Manager-FF9800?style=for-the-badge&logo=firebase&logoColor=white)](https://webx-test.vercel.app/)
+
+**🛠️ Tech Stack:** `Python` `Flask` `Firebase` `JWT`
+
+**📝 Description:** Enterprise-level blind XSS payload management system with real-time analytics, detailed hit logging, and JWT-based authentication for security researchers.
+
+**⚡ Key Features:**
+- 🎯 Blind XSS payload deployment
+- 📊 Real-time analytics dashboard
+- 🔐 JWT authentication system
+- 📝 Comprehensive hit logging
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://webx-test.vercel.app/)
+[![Status](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A//webx-test.vercel.app/)](https://webx-test.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 More Projects Coming Soon...
+[![Coming Soon](https://img.shields.io/badge/🛠️_In_Development-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](#)
+
+**🔭 What's Next:**
+- 🤖 AI-powered vulnerability scanner
+- 🔐 Advanced cryptography tools
+- 🛡️ Network security utilities
+- 📱 Mobile security testing framework
+
+**💡 Innovation Pipeline:**
+- Machine learning integration
+- Cloud security solutions
+- IoT vulnerability assessment
+- Automated penetration testing
+
+[![Follow](https://img.shields.io/badge/Follow_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/igdudee)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Experience
+### 📚 Experience
 
-### 💼 Experience
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&height=60&lines=Professional+Experience+💼;Security+Expert+Journey;Building+Cyber+Defense" alt="Experience Header" />
+</div>
 
-#### Bug Bounty Hunter
-**OpenBugBounty, BugCrowd, HackerOne** | *July 2022 - Present*
-- Reported 20+ security vulnerabilities (XSS, misconfigurations) with detailed PoCs
-- Improved web application security and reduced risks by 30% for various organizations
-- Delivered comprehensive vulnerability reports with risk prioritization and remediation steps
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
-#### Cybersecurity Intern
-**EliteTech** | *February 2025 - June 2025*
-- Gained hands-on experience in network defenses and vulnerability scanning
-- Conducted security assessments on simulated infrastructures
-- Proposed solutions to enhance system resilience against cyber threats
+### 🎯 **Bug Bounty Hunter** 
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+[![Experience](https://img.shields.io/badge/Experience-2.5%2B_Years-blue?style=for-the-badge)]()
 
-#### Cybersecurity Intern
-**SkillCraft Technology** | *August 2024*
-- Developed security tools including keyloggers and encryption utilities
-- Contributed to network and web application security enhancements
-- Implemented security measures to protect user data
+**🏢 Platforms:** OpenBugBounty • BugCrowd • HackerOne | **📅 July 2022 - Present**
+
+<div align="center">
+
+![Vulnerabilities](https://img.shields.io/badge/🐛_Vulnerabilities_Found-20%2B-FF6B6B?style=for-the-badge)
+![Risk Reduction](https://img.shields.io/badge/🛡️_Risk_Reduction-30%25-4CAF50?style=for-the-badge)
+![Reports](https://img.shields.io/badge/📄_Detailed_Reports-Expert_Level-9C27B0?style=for-the-badge)
+
+</div>
+
+**🎆 Key Achievements:**
+- 🎯 Discovered 20+ critical security vulnerabilities across various web applications
+- 📈 Delivered comprehensive vulnerability assessments with detailed PoCs
+- 🔄 Improved overall security posture by 30% for target organizations
+- 📝 Provided strategic remediation recommendations and risk prioritization
 
 ---
 
-# Certifications
+### 🛡️ **Cybersecurity Intern - EliteTech**
+[![Duration](https://img.shields.io/badge/Duration-5_Months-orange?style=for-the-badge)]()
+[![Focus](https://img.shields.io/badge/Focus-Network_Security-red?style=for-the-badge)]()
+
+**📅 February 2025 - June 2025**
+
+**🚀 Responsibilities & Impact:**
+- 🔍 Conducted comprehensive network vulnerability assessments
+- 📊 Performed security evaluations on simulated enterprise infrastructures
+- 🛠️ Developed and implemented cyber threat mitigation strategies
+- 📈 Enhanced system resilience through proactive security measures
+
+---
+
+### 💻 **Cybersecurity Intern - SkillCraft Technology**
+[![Duration](https://img.shields.io/badge/Duration-1_Month-green?style=for-the-badge)]()
+[![Specialty](https://img.shields.io/badge/Specialty-Tool_Development-purple?style=for-the-badge)]()
+
+**📅 August 2024**
+
+**🎆 Key Deliverables:**
+- 🔧 Engineered advanced security tools including keyloggers and encryption utilities
+- 🌐 Strengthened network and web application security frameworks
+- 🔐 Implemented robust data protection and user privacy measures
+- 🛡️ Enhanced overall cybersecurity infrastructure
+
+---
 
 ### 📜 Certifications
 
-- **CompTIA Cybersecurity Analyst+** - Digital Forensics ([View Credential](https://skillsoft.digitalbadges.skillsoft.com/7a65023b-a6ef-433f-b1e0-56f146f5c655))
-- **CompTIA Cybersecurity Analyst+** - Cloud Computing & Cybersecurity ([View Credential](https://skillsoft.digitalbadges.skillsoft.com/da1fda0d-8f1e-4c1f-ae98-df3f316a78f1))
-- **Bug Bounty - Ethical Hacking 2023** - Udemy ([View Certificate](https://www.udemy.com/certificate/UC-ffa31c71-4057-4f6e-965c-c2e831219ea8/))
-- **Certified Ethical Hacking From Scratch** - Udemy ([View Certificate](https://www.udemy.com/certificate/UC-bebcb8cb-6d7b-416c-94f0-a90fafb4459c/))
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=700&size=32&duration=3500&pause=1200&color=2ECC71&center=true&vCenter=true&width=700&height=70&lines=Professional+Certifications+🏆;Industry+Recognition;Continuous+Learning" alt="Certifications Header" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+
+### 🏅 **CompTIA Cybersecurity Analyst+**
+
+[![Digital Forensics](https://img.shields.io/badge/🕵️_Digital_Forensics-CompTIA_CySA%2B-FF6B35?style=for-the-badge&logo=comptia&logoColor=white)](https://skillsoft.digitalbadges.skillsoft.com/7a65023b-a6ef-433f-b1e0-56f146f5c655)
+[![Cloud Security](https://img.shields.io/badge/☁️_Cloud_Computing_&_Cybersecurity-CompTIA_CySA%2B-4285F4?style=for-the-badge&logo=comptia&logoColor=white)](https://skillsoft.digitalbadges.skillsoft.com/da1fda0d-8f1e-4c1f-ae98-df3f316a78f1)
+
+### 🎓 **Specialized Training**
+
+[![Bug Bounty](https://img.shields.io/badge/🐛_Bug_Bounty_Ethical_Hacking-Udemy_2023-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-ffa31c71-4057-4f6e-965c-c2e831219ea8/)
+[![Ethical Hacking](https://img.shields.io/badge/🛡️_Certified_Ethical_Hacking-From_Scratch-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-bebcb8cb-6d7b-416c-94f0-a90fafb4459c/)
+
+### 📊 **Certification Stats**
+
+![Total Certs](https://img.shields.io/badge/Total_Certifications-4-gold?style=for-the-badge&logo=certificate&logoColor=white)
+![Industry Recognition](https://img.shields.io/badge/Industry_Recognition-CompTIA_Verified-blue?style=for-the-badge&logo=comptia&logoColor=white)
+![Continuous Learning](https://img.shields.io/badge/Status-Continuously_Learning-green?style=for-the-badge&logo=coursera&logoColor=white)
+
+</div>
 
 ---
-
-# Connect with Me
 
 ### 🌐 Connect with Me
 
@@ -168,7 +302,7 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=50&lines=My+GitHub+Stats+%F0%9F%93%8A;Coding+Statistics+%26+Analytics;Data-Driven+Development" alt="GitHub Stats Typing SVG" />
 </div>
 
-# GitHub Stats
+
 
 ### 📊 My GitHub Stats
 
@@ -182,7 +316,7 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ---
 
-# GitHub Trophies
+
 
 ### 🏆 GitHub Trophies
 
@@ -192,7 +326,7 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ---
 
-# Thanks for Visiting
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+collaborate!;Stay+secure+%F0%9F%94%92" alt="Footer Typing SVG" />
