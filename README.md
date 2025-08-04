@@ -58,7 +58,7 @@ I'm a passionate Ethical Hacker and Cybersecurity Specialist dedicated to making
 - 🏆 Reported 20+ security vulnerabilities with detailed remediation strategies
 - 🔍 Specializes in XSS, SQL Injection, and OWASP Top 10 vulnerabilities
 - 🌐 Developed multiple open-source security tools used by the community
-- 🎓 CompTIA CySA+ certified with focus on digital forensics and cloud security
+- 🎓 CompTIA Security+ certified with focus on digital forensics and cloud security(SkillSoft)
 
 ---
 
@@ -283,7 +283,7 @@ I'm a passionate Ethical Hacker and Cybersecurity Specialist dedicated to making
 
 <div align="center">
 
-### 🏅 **CompTIA Cybersecurity Analyst+**
+### 🏅 **CompTIA Cybersecurity Analyst+(SkillSoft)**
 
 [![Digital Forensics](https://img.shields.io/badge/🕵️_Digital_Forensics-CompTIA_CySA%2B-FF6B35?style=for-the-badge&logo=comptia&logoColor=white)](https://skillsoft.digitalbadges.skillsoft.com/7a65023b-a6ef-433f-b1e0-56f146f5c655)
 [![Cloud Security](https://img.shields.io/badge/☁️_Cloud_Computing_&_Cybersecurity-CompTIA_CySA%2B-4285F4?style=for-the-badge&logo=comptia&logoColor=white)](https://skillsoft.digitalbadges.skillsoft.com/da1fda0d-8f1e-4c1f-ae98-df3f316a78f1)
