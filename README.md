@@ -1,3 +1,5 @@
+# Welcome
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Karthik+S+Sathyan+%F0%9F%91%8B;Ethical+Hacker+%26+Cybersecurity+Specialist+%F0%9F%94%92;Bug+Bounty+Hunter+%F0%9F%90%9B;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
   <br>
@@ -18,11 +20,27 @@
 
 ---
 
+# Table of Contents
+1. [Welcome](#welcome)
+2. [About Me](#about-me)
+3. [Tech Stack](#tech-stack)
+4. [Projects](#projects)
+5. [Experience](#experience)
+6. [Certifications](#certifications)
+7. [Connect with Me](#connect-with-me)
+8. [GitHub Stats](#github-stats)
+9. [GitHub Trophies](#github-trophies)
+10. [Thanks for Visiting](#thanks-for-visiting)
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=50&lines=About+Me+%F0%9F%9A%80;Ethical+Hacker+%26+Cybersecurity+Expert;Always+Learning+%26+Growing" alt="About Me Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+# About Me
 
 ### 🚀 About Me
 
@@ -39,6 +57,8 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=57F287&center=true&vCenter=true&width=600&height=50&lines=My+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F;Hacking+Tools+%26+Programming;Always+Exploring+New+Tech" alt="Tech Stack Typing SVG" />
 </div>
+
+# Tech Stack
 
 ### 🛠️ My Tech Stack
 
@@ -73,6 +93,8 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 <img align="left" alt="Projects" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+# Projects
+
 ### 🚀 Projects
 
 #### 1. Xaphan - XSS Vulnerability Scanner
@@ -91,6 +113,8 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 🔹 **Live Demo**: [WebX Website](https://webx-test.vercel.app/)
 
 ---
+
+# Experience
 
 ### 💼 Experience
 
@@ -114,6 +138,8 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ---
 
+# Certifications
+
 ### 📜 Certifications
 
 - **CompTIA Cybersecurity Analyst+** - Digital Forensics ([View Credential](https://skillsoft.digitalbadges.skillsoft.com/7a65023b-a6ef-433f-b1e0-56f146f5c655))
@@ -123,7 +149,9 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ---
 
-### 🌐 Connect with me
+# Connect with Me
+
+### 🌐 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/karthik-s-sathyan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -140,6 +168,8 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=50&lines=My+GitHub+Stats+%F0%9F%93%8A;Coding+Statistics+%26+Analytics;Data-Driven+Development" alt="GitHub Stats Typing SVG" />
 </div>
 
+# GitHub Stats
+
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -152,6 +182,8 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ---
 
+# GitHub Trophies
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -159,6 +191,8 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 </p>
 
 ---
+
+# Thanks for Visiting
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+collaborate!;Stay+secure+%F0%9F%94%92" alt="Footer Typing SVG" />
