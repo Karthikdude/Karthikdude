@@ -1,7 +1,14 @@
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Karthik+S+Sathyan+%F0%9F%91%8B;Ethical+Hacker+%26+Cybersecurity+Specialist+%F0%9F%94%92;Bug+Bounty+Hunter+%F0%9F%90%9B;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1 align="center">Hi there, I'm Karthik S Sathyan 👋</h1>
-</p>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
 <p align="center">
   <em>A passionate tech enthusiast and ethical hacker from India 🇮🇳, currently pursuing a BCA at Srinivas University.
@@ -10,6 +17,12 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=50&lines=About+Me+%F0%9F%9A%80;Ethical+Hacker+%26+Cybersecurity+Expert;Always+Learning+%26+Growing" alt="About Me Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🚀 About Me
 
@@ -22,6 +35,10 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 - ⚡ Fun fact: I've reported over 20+ security vulnerabilities in various web applications
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=57F287&center=true&vCenter=true&width=600&height=50&lines=My+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F;Hacking+Tools+%26+Programming;Always+Exploring+New+Tech" alt="Tech Stack Typing SVG" />
+</div>
 
 ### 🛠️ My Tech Stack
 
@@ -49,6 +66,12 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=My+Projects+%F0%9F%9A%80;Security+Tools+%26+Applications;Building+the+Future" alt="Projects Typing SVG" />
+</div>
+
+<img align="left" alt="Projects" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 🚀 Projects
 
@@ -113,6 +136,10 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=50&lines=My+GitHub+Stats+%F0%9F%93%8A;Coding+Statistics+%26+Analytics;Data-Driven+Development" alt="GitHub Stats Typing SVG" />
+</div>
+
 ### 📊 My GitHub Stats
 
 <p align="center">
@@ -133,6 +160,10 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+collaborate!;Stay+secure+%F0%9F%94%92" alt="Footer Typing SVG" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthikdude&style=flat-square&color=blue" alt="Profile Views"/>
   <br/>
@@ -140,3 +171,13 @@ I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with
     <img src="https://img.shields.io/github/followers/Karthikdude?label=Follow%20%40Karthikdude&style=social" alt="GitHub Followers"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</div>
