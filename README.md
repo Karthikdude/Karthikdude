@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=Karthik%20S%20Sathyan&height=150&fontSize=60&desc=Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist%20%7C%20Bug%20Bounty%20Hunter&descAlignY=75&descAlign=50&animation=fadeIn" width="100%" color="white"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Karthik%20S%20Sathyan&height=150&fontSize=60&desc=Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist%20%7C%20Bug%20Bounty%20Hunter&descAlignY=75&descAlign=50&animation=fadeIn" width="100%" "/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🛡️+Cybersecurity+Professional;🔍+Vulnerability+Hunter;💻" alt="Dynamic Role Display" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🛡️+Cybersecurity+Professional;🔍+Bug+Bounty+Hunter;" alt="Dynamic Role Display" />
 </div>
 
 <div align="center">
@@ -26,27 +26,45 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=50&lines=About+Me+%F0%9F%9A%80;Ethical+Hacker+%26+Cybersecurity+Expert;Always+Learning+%26+Growing" alt="About Me Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# About Me
-
 ### 🚀 About Me
 
-I'm an Ethical Hacker and Cybersecurity Specialist currently pursuing a BCA with a specialization in Ethical Hacking, Cybersecurity, and Cloud Computing. Passionate about leveraging technical expertise to enhance system security and mitigate vulnerabilities.
+I'm a passionate Ethical Hacker and Cybersecurity Specialist dedicated to making the digital world safer, one vulnerability at a time. Currently pursuing a BCA with specialized focus on Ethical Hacking, Cybersecurity, and Cloud Computing, I combine academic excellence with real-world security expertise.
 
-- 🔭 Currently working as a **Bug Bounty Hunter** on platforms like OpenBugBounty, BugCrowd, and HackerOne
-- 🌱 Currently learning **Advanced Penetration Testing** and **Reverse Engineering**
-- 💼 Previously interned at **EliteTech** and **SkillCraft Technology** in cybersecurity roles
-- 📫 Reach me via: [Email](mailto:karthikssathyan1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/karthik-s-sathyan) | [Portfolio](https://karthik-s-sathyan.vercel.app/)
-- ⚡ Fun fact: I've reported over 20+ security vulnerabilities in various web applications
+🎯 **My Mission**: To leverage cutting-edge technical skills and ethical hacking methodologies to identify, analyze, and mitigate security vulnerabilities across diverse digital infrastructures.
+
+**🔥 Current Focus:**
+- 🔭 Active **Bug Bounty Hunter** on premier platforms: OpenBugBounty, BugCrowd, and HackerOne
+- 🌱 Mastering **Advanced Penetration Testing** and **Reverse Engineering** techniques
+- 🛡️ Developing custom security tools and automation frameworks
+- 📚 Researching emerging cyber threats and defense mechanisms
+
+**💼 Professional Journey:**
+- 🏢 Security Intern at **EliteTech** - Network vulnerability assessments and threat mitigation
+- 🔧 Cybersecurity Intern at **SkillCraft Technology** - Security tool development and implementation
+- 🐛 **20+ Critical Vulnerabilities** discovered across various web applications
+- 📊 **30% Risk Reduction** achieved for target organizations through comprehensive security assessments
+
+**🌟 What Sets Me Apart:**
+- 🎯 **Result-Driven Approach**: Focus on delivering actionable security insights with detailed PoCs
+- 🔄 **Continuous Learning**: Always staying ahead of emerging threats and technologies
+- 🤝 **Collaborative Mindset**: Strong communication skills for technical and non-technical stakeholders
+- 🛠️ **Tool Development**: Creating custom solutions to solve complex security challenges
+
+**📞 Let's Connect:**
+- 📧 [Email](mailto:karthikssathyan1@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/karthik-s-sathyan) | 🌐 [Portfolio](https://karthik-s-sathyan.vercel.app/)
+- 🐦 Follow my security research and insights on [Twitter](https://twitter.com/igdudee)
+
+**⚡ Interesting Facts:**
+- 🏆 Reported 20+ security vulnerabilities with detailed remediation strategies
+- 🔍 Specializes in XSS, SQL Injection, and OWASP Top 10 vulnerabilities
+- 🌐 Developed multiple open-source security tools used by the community
+- 🎓 CompTIA CySA+ certified with focus on digital forensics and cloud security
 
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=57F287&center=true&vCenter=true&width=600&height=50&lines=My+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F;Hacking+Tools+%26+Programming;Always+Exploring+New+Tech" alt="Tech Stack Typing SVG" />
 </div>
-
-# Tech Stack
 
 ### 🛠️ My Tech Stack
 
