@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=Karthik%20S%20Sathyan&height=150&fontSize=60&desc=Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist%20%7C%20Bug%20Bounty%20Hunter&descAlignY=75&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=Karthik%20S%20Sathyan&height=150&fontSize=60&desc=Ethical%20Hacker%20%7C%20Cybersecurity%20Specialist%20%7C%20Bug%20Bounty%20Hunter&descAlignY=75&descAlign=50&animation=fadeIn" width="100%" color="white"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🛡️+Cybersecurity+Professional;🔍+Vulnerability+Hunter;💻+Security+Tool+Developer;🚀+Tech+Innovation+Enthusiast" alt="Dynamic Role Display" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🛡️+Cybersecurity+Professional;🔍+Vulnerability+Hunter;💻" alt="Dynamic Role Display" />
 </div>
 
 <div align="center">
